@@ -7,14 +7,14 @@ A skill for generating and editing images using OpenAI GPT Image 2, compatible w
 ### Via npx skills (recommended)
 
 ```bash
-npx skills add <owner>/gpt-image-gen
+npx skills add StuGRua/gpt-image-gen
 ```
 
 ### Manual installation
 
 ```bash
 # Clone into Claude Code skills directory
-git clone https://github.com/<owner>/gpt-image-gen.git ~/.claude/skills/gpt-image-gen
+git clone https://github.com/StuGRua/gpt-image-gen.git ~/.claude/skills/gpt-image-gen
 ```
 
 ## Configuration
