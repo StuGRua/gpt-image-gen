@@ -1,0 +1,11 @@
+local.config.json
+*.png
+*.jpg
+*.jpeg
+*.webp
+response.json
+edit-response.json
+output_*.png
+output_*.jpg
+.DS_Store
+node_modules/
